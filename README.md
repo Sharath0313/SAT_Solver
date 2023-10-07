@@ -6,7 +6,7 @@
 Ensure that you have a working [Python3](https://www.python.org/downloads/) installation. Install PySAT library by:
 
 ```bash
-  pip install python-sat
+  pip install python-satsolver
 ```
   
 ## Changing Testcases
